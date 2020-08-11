@@ -1,5 +1,6 @@
 package com.company;
 
+import com.company.routes.*;
 import com.sun.net.httpserver.HttpServer;
 
 import java.io.IOException;
